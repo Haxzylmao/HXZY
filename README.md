@@ -11,4 +11,4 @@ have fun with its more **general commands** or even
 
 **TO INVITE HXZY PRESS THE BUTTON BELOW**
 
-<a href="https://dsc.gg/hxzy"><img alt="become a patron" src="https://cdn.discordapp.com/attachments/904000008863485953/916033167872376863/unknown.png" height="35px"></a>
+<a href="https://discord.com/oauth2/authorize?client_id=879819844537692160&permissions=536836697974&scope=bot%20applications.commands"><img alt="become a patron" src="https://cdn.discordapp.com/attachments/904000008863485953/916033167872376863/unknown.png" height="35px"></a>
