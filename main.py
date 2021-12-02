@@ -6,6 +6,7 @@ from discord_components import *
 from discord_components import DiscordComponents
 from discord_slash import SlashCommand
 from discord_slash import *
+from server import keep_running
 
 
 EXTENSIONS = ['extensions.General', 'extensions.Errors', 'extensions.Moderation', 'extensions.Ready', 'extensions.Message', 'extensions.Music', 'extensions.Help', 'extensions.Slash']
@@ -43,5 +44,5 @@ class Bot(commands.Bot):
 
 if __name__ == '__main__':
     HXZY = Bot()
-    keep_alive()
+    keep_running()
     HXZY.run(os.environ['TOKEN'])
