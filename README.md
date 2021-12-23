@@ -7,6 +7,10 @@ A discord bot that can be used for __keeping__ your server safe by using **moder
 have fun with its more **general commands** or even 
 **play music** in _voice channels_!
 
+# Self hosting
+
+Please don't. At least not now! The code is massively outdated and shares very little semblence with the live bot. This will most likely change in the future, but until then, please invite the version that I host.
+
 # Info
 
 **TO INVITE HXZY PRESS THE BUTTON BELOW**
